@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿        Console.WriteLine("Användarnamn:");
+        string name = Console.ReadLine();
+       
+
+        if (name == "micke")
+        {
+            Console.WriteLine("Välkommen!");
+      
+        }
+        else
+        {
+            Console.WriteLine("FU");
+        }
+
+        Console.ReadLine();
