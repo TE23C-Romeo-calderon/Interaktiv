@@ -56,3 +56,5 @@ else
  {
     Console.WriteLine("Wrong, try again");
  }
+
+ Console.ReadLine();
